@@ -1,0 +1,15 @@
+{
+    "require": {
+        "slim/slim": "^4.12",
+        "slim/psr7": "^1.6",
+        "slim/http": "^0.4.0",
+        "slim/pdo": "^2.2"
+    },
+    "autoload": {
+        "psr-7": {
+            "YourNamespace\\": "src/"
+        }
+    }
+}
+
+
